@@ -20,4 +20,4 @@ Explore four distinct folders, each containing a unique small program:
 
 ## Dive In!
 
-Explore the individual folders to discover the unique programs and the coding techniques employed during the 10th grade. Each program presents a different aspect of CSharp application development, making it a valuable resource for learning and exploration. Enjoy coding! 🚀
+Explore the individual folders to discover the unique programs and the coding techniques employed during the 10th grade. Each program presents a different aspect of CSharp application development, making it a valuable resource for learning and exploration.
